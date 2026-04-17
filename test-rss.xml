@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+  <title>ElectraCast Demo Podcast</title>
+  <link>https://example.com</link>
+  <description>This is a test podcast for OTP verification</description>
+
+  <itunes:owner>
+    <itunes:name>Your Name</itunes:name>
+    <itunes:email>gokultesting45@gmail.com</itunes:email>
+  </itunes:owner>
+
+  <item>
+    <title>Episode 1</title>
+    <description>This is a test episode</description>
+    <enclosure url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg"/>
+  </item>
+
+</channel>
+</rss>
