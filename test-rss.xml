@@ -16,6 +16,7 @@
   <itunes:summary>Test podcast</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
 
+  <!-- Episode 1 -->
   <item>
     <title>Episode 1</title>
     <description>This is a test episode</description>
@@ -29,6 +30,23 @@
     <pubDate>Sat, 18 Apr 2026 07:26:00 GMT</pubDate>
 
     <itunes:duration>00:06:00</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <!-- Episode 2 -->
+  <item>
+    <title>Episode 2</title>
+    <description>This is the second test episode</description>
+
+    <enclosure 
+      url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+      length="10485760"
+      type="audio/mpeg" />
+
+    <guid>episode-2</guid>
+    <pubDate>Sat, 18 Apr 2026 10:02:00 GMT</pubDate>
+
+    <itunes:duration>00:07:30</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
 
