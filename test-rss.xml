@@ -16,6 +16,7 @@
   <itunes:summary>Test podcast</itunes:summary>
   <itunes:explicit>false</itunes:explicit>
 
+  <itunes:image href="https://picsum.photos/1400/1400"/>
   <!-- Episode 1 -->
   <item>
     <title>Episode 1</title>
