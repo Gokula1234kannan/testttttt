@@ -17,6 +17,7 @@
   <itunes:explicit>false</itunes:explicit>
 
   <itunes:image href="https://picsum.photos/1400/1400"/>
+
   <!-- Episode 1 -->
   <item>
     <title>Episode 1</title>
@@ -48,6 +49,23 @@
     <pubDate>Sat, 18 Apr 2026 10:02:00 GMT</pubDate>
 
     <itunes:duration>00:07:30</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
+  <!-- Episode 3 -->
+  <item>
+    <title>Episode 3</title>
+    <description>This is the third test episode</description>
+
+    <enclosure 
+      url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+      length="11258999"
+      type="audio/mpeg" />
+
+    <guid>episode-3</guid>
+    <pubDate>Fri, 24 Apr 2026 14:51:00 GMT</pubDate>
+
+    <itunes:duration>00:08:15</itunes:duration>
     <itunes:explicit>false</itunes:explicit>
   </item>
 
