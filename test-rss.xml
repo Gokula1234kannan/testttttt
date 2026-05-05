@@ -85,5 +85,21 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
 
+  <item>
+    <title>Episode 4</title>
+    <description>This is the third test episode</description>
+
+    <enclosure 
+      url="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+      length="11258999"
+      type="audio/mpeg" />
+
+    <guid>episode-4</guid>
+    <pubDate>Tue, 5 May 2026 06:45:00 GMT</pubDate>
+
+    <itunes:duration>00:08:15</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+
 </channel>
 </rss>
